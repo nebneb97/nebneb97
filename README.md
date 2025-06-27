@@ -44,7 +44,7 @@ An enthusiastic Computer Science major with a basic background in Network and Cy
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [My Flutter App](https://github.com/nebneb97/flutter-app) | A cross-platform app for managing tasks. | Flutter, Dart, Firebase |
-| [Portfolio Website](https://nabil-portfolio-peach.vercel.app/) | My personal website built with Next.js. | Next.js, Vercel, TailwindCSS |
+| [Portfolio Website](https://nabil-portfolio-peach.vercel.app/) | My personal website built with Next.js. | Next.js, Vercel, TailwindCSS, Framer Motion |
 
 
 ## 📊 GitHub Stats:
