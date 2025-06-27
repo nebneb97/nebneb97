@@ -1,6 +1,10 @@
 # Welcome to My Repo !!
 - Hello World, the universe of development
 - Life is a learning process, it never halts or ends.
+- Find me through : nabiladib70@gmail.com
+
+# About Me 
+An enthusiastic Computer Science major with a basic background in Network and Cybersecurity. Currently seeking practical IT industry experience. I am eager to apply my academic foundations and collaborate with dynamic teams to create innovative solutions. I have a passion for staying up-to-date with emerging technologies and eager them as well. My skills are focused on Mobile Application development, looking forward to apply my knowledge in contributing to new projects.
   
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.nebneb) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nabiladib/) 
