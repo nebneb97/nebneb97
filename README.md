@@ -9,7 +9,7 @@
 ---
 
 ## About Me 
-An enthusiastic Computer Science major with a basic background in Network and Cybersecurity. Currently seeking practical IT industry experience. I am eager to apply my academic foundations and collaborate with dynamic teams to create innovative solutions. I have a passion for staying up-to-date with emerging technologies and eager them as well. My skills are focused on Mobile Application development, looking forward to apply my knowledge in contributing to new projects.
+Computer Science graduate with a strong foundation in Networking and Cybersecurity, and hands-on experience in mobile and web application development using Flutter, Dart, and modern JavaScript frameworks. Passionate about building real-world solutions and contributing to collaborative, tech-driven environments. Actively seeking an entry-level role to apply skills in full-stack development, cloud services, and secure system design.
   
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.nebneb)
